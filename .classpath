@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="BookStore/BookStore"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Documents/GitHub/BookStore/lib/junit.jar"/>
+	<classpathentry kind="output" path="BookStore/BookStore"/>
+</classpath>
